@@ -36,22 +36,22 @@ section{
   left:100px;
 }
 #intro{
-  background: url(./img/ball/first.jpg) no-repeat fixed;
+  background: url(./first.jpg) no-repeat fixed;
   background-size: cover;
   height: 770px;
 }
 #second{
-  background: url(./img/ball/second.jpg) 50% 0 no-repeat fixed;
+  background: url(./second.jpg) 50% 0 no-repeat fixed;
   height: 1300px;
   overflow: hidden;
 }
 #third{
-  background: url(./img/ball/fourth.jpg) 50% 0 no-repeat fixed;
+  background: url(./fourth.jpg) 50% 0 no-repeat fixed;
   height: 600px;
   padding-bottom: 300px;
 }
 .shoe{
-  background: url(./img/ball/shoe.png) 50% 0 no-repeat fixed;
+  background: url(./shoe.png) 50% 0 no-repeat fixed;
   height: 1300px;
 }
 /*social media icons*/
